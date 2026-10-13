@@ -1,11 +1,9 @@
+
 {
   "channels": [
     {
-      "id": "YOUR_CHANNEL_ID",
-      "group": "hindi"
-    },
-    {
-      "id": "YOUR_SECOND_CHANNEL_ID",
+      "id": "UCyHi4l9xg9zBIqeXP747T4Q",
+      "name": "Chronodaddy",
       "group": "english"
     }
   ]
